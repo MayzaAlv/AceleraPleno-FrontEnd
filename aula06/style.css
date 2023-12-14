@@ -45,6 +45,12 @@ button {
   font-size: 1.15rem;
 }
 
+button:hover {
+  cursor: pointer;
+  background-color: #bcc8ec;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 select {
   width: 50%;
   font-size: 1.15rem;
