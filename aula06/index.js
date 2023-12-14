@@ -109,7 +109,7 @@ function popularResult() {
   } else {
       getCurrency(cotacao).then((result) => {
           const firstKey = Object.keys(result)[0];
-          const firstValue = resultresultObj[firstKey];
+          const firstValue = result[firstKey];
           const finalResult = parseFloat(firstValue.ask) * parseFloat(value);
   
           resultCurrency.innerText = finalResult.toFixed(2);
