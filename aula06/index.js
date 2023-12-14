@@ -72,7 +72,7 @@ function getCoins() {
 
 function popularSelect() {
   getCoins().then((result) => {
-    const defaultOption = '<option value="">Choose...</option>';
+    const defaultOption = '<option value="">Escolha uma opção...</option>';
 
     const optionsArray = Object.entries(result).map(([chave, valor]) => {
       return { chave, valor };
