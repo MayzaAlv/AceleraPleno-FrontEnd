@@ -1,8 +1,12 @@
 body {
-    padding: 0;
-    margin: 0;
-    background-color: rgb(164, 231, 231);
-  }
+  font-size: large;
+  padding: 10%;
+  margin: 0;
+  background-color: rgb(164, 231, 231);
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
  
  h1 {
     text-align: center;
@@ -12,15 +16,17 @@ body {
   
 .container {
   background-color: white;
-  max-width: 500px;
-  height: 200px;
+  max-width: 75%;
   border: 1px solid #ccc;
   box-shadow: 0 4px 8px 0 #6576aa, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 5px;
-  padding: 5px;
+  padding: 30px;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  overflow: hidden;
 }
 
 #contador {
