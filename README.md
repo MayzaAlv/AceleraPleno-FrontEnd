@@ -22,3 +22,5 @@ Acesso ao projeto: https://jsfiddle.net/8tqL6apv/
 ## Aula06: Cotação
 ![image](https://github.com/MayzaAlv/AceleraPleno-FrontEnd/assets/89316731/9a4f20a4-1d0f-4deb-a674-e8cb9c6faf73)
 Acesso ao projeto: https://jsfiddle.net/k8ow9mtf/
+
+Obs: Não apronfundamos com responsividade no curso, por enquanto, não foi adicionado.
