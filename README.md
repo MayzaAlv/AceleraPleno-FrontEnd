@@ -17,7 +17,7 @@ Acesso ao projeto: https://jsfiddle.net/5ohebf30/
 ![image](https://github.com/MayzaAlv/AceleraPleno-FrontEnd/assets/89316731/7c7a51a2-a342-499b-9f8b-e1cfb62e5d0f)
 Acesso ao projeto: https://jsfiddle.net/8tqL6apv/
 
-##Aula05: Jogo da Velha
+## Aula05: Jogo da Velha
 
 ## Aula06: Cotação
 ![image](https://github.com/MayzaAlv/AceleraPleno-FrontEnd/assets/89316731/9a4f20a4-1d0f-4deb-a674-e8cb9c6faf73)
