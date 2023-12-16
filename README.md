@@ -1,6 +1,11 @@
 # FrontEnd
 Programas de frontend desenvolvidos nas aulas do Acelera Pleno.
 
+* HTML
+* CSS
+* JavaScript
+* Bootstrap (Apenas na Aula01)
+
 ## Aula01: Galáxias
 ![image](https://github.com/MayzaAlv/AceleraPleno-FrontEnd/assets/89316731/5e279789-3a37-443b-9964-f03f9ad1737a)
 Acesso ao projeto: https://jsfiddle.net/d3Lgbjtz/3/
